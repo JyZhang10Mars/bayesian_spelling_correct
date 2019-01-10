@@ -1,2 +1,3 @@
 # bayesian_spelling_correct
-Bayesian spelling correction.:grin:
+Bayesian spelling correct
+bayes_train_text.text is a corpus
